@@ -1,0 +1,9 @@
+my:
+  name: yql
+  age: 18
+  sex: man
+  uuid : ${random.uuid}
+
+spring:
+  profiles:
+    active: dev
