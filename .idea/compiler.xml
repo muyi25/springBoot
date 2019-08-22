@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="first-spring-boot" />
+        <module name="spring-boot-cache" />
         <module name="spring-boot-config" />
         <module name="spring-boot-jdbc" />
         <module name="spring-boot-mybatis" />
@@ -15,6 +16,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="first-spring-boot" target="1.8" />
+      <module name="spring-boot-cache" target="1.8" />
       <module name="spring-boot-config" target="1.5" />
       <module name="spring-boot-jdbc" target="1.8" />
       <module name="spring-boot-mybatis" target="1.8" />
@@ -24,6 +26,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="first-spring-boot" options="-parameters" />
+      <module name="spring-boot-cache" options="-parameters" />
       <module name="spring-boot-config" options="-parameters" />
       <module name="spring-boot-jdbc" options="-parameters" />
       <module name="spring-boot-mybatis" options="-parameters" />
