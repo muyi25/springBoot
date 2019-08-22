@@ -14,7 +14,7 @@ public class AccountServiceImpl implements AccountService {
     @Autowired
     AccountMapper accountMapper;
 
-    @Transactional
+    @Transactional//开启事务注解
     public void transfer() throws RuntimeException{
         accountMapper.update(90.0,1);//用户1减10块 用户2加10块
        // int i=1/0;
