@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbd8a07c-8a95-4937-8b8b-b51998eacf97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/AppRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/po/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/sercice/BookRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/sercice/impl/SimpleBookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-timer-tasks/src/main/java/com/yql/springboottimertasks/tasks/TestTask.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/first-spring-boot/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-config/target/" />
@@ -13,6 +10,7 @@
     <ignored path="$PROJECT_DIR$/spring-boot-mybatis/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-redis/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-cache/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-timer-tasks/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,70 +23,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/SpringBootCacheApplication.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-timer-tasks/src/main/java/com/yql/springboottimertasks/SpringBootTimerTasksApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cache/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="36" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/AppRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/sercice/impl/SimpleBookRepository.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-timer-tasks/src/main/java/com/yql/springboottimertasks/tasks/TestTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="240">
+              <caret line="8" selection-start-line="8" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/sercice/BookRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/po/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="2" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,6 +112,8 @@
         <option value="$PROJECT_DIR$/spring-boot-cache/src/test/java/com/yql/springbootcache/AppRunner.java" />
         <option value="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/SpringBootCacheApplication.java" />
         <option value="$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/sercice/impl/SimpleBookRepository.java" />
+        <option value="$PROJECT_DIR$/spring-boot-timer-tasks/src/main/java/com/yql/springboottimertasks/SpringBootTimerTasksApplication.java" />
+        <option value="$PROJECT_DIR$/spring-boot-timer-tasks/src/main/java/com/yql/springboottimertasks/tasks/TestTask.java" />
       </list>
     </option>
   </component>
@@ -173,10 +126,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="31" />
-    <option name="y" value="346" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="442" />
+    <option name="y" value="8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -194,84 +147,25 @@
             <path>
               <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cache" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-timer-tasks" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cache" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-timer-tasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cache" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cache" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cache" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cache" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cache" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-cache" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootcache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-timer-tasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-timer-tasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -279,11 +173,21 @@
             <path>
               <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
               <item name="springBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-timer-tasks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootmybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="springboottimertasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-timer-tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboottimertasks" type="462c0819:PsiDirectoryNode" />
+              <item name="tasks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -299,7 +203,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566472153035" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566809973456" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -340,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootCacheApplication">
+  <component name="RunManager" selected="Spring Boot.SpringBootTimerTasksApplication">
     <configuration name="SpringBootCacheApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-cache" />
       <extension name="coverage">
@@ -411,6 +315,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringBootTimerTasksApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-timer-tasks" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yql.springboottimertasks.SpringBootTimerTasksApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.SpringBootCacheApplicationTests" />
@@ -446,13 +357,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25003000" />
+    <option name="totallyTimeSpent" value="26364000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23560767" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23560767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -462,7 +372,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45661604" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45661604" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44577006" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -486,41 +396,6 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23560767" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45661604" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44577006" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -853,13 +728,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/interface/BookRepository.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-cache/src/main/java/com/yql/springbootcache/interface/BookRepository.kt" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.7.RELEASE/spring-boot-2.1.7.RELEASE.jar!/org/springframework/boot/CommandLineRunner.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -928,6 +797,32 @@
           <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-timer-tasks/src/main/java/com/yql/springboottimertasks/TestTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-timer-tasks/src/main/java/com/yql/springboottimertasks/SpringBootTimerTasksApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-timer-tasks/src/main/java/com/yql/springboottimertasks/tasks/TestTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
           </folding>
         </state>
       </provider>
